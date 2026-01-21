@@ -11,10 +11,10 @@ Transformer 논문 "Attention Is All You Need"를 분석하고, 핵심 구조를
 ```
 .
 ├── README.md                    # 프로젝트 개요 (본 문서)
-├── tranformer_paper.md          # Transformer 논문 요약 및 핵심 이론 정리
-├── transformer_확장.py          # Transformer 변형 구조 및 응용 분석 (BERT, GPT, ViT)
-├── transformer.py               # 기본 Transformer 컴포넌트 구현 및 검증
-└── transformer_미니실험.py      # IMDB 감정 분류 전체 실험 코드
+├── Transformer_paper.md          # Transformer 논문 요약 및 핵심 이론 정리
+├── Transformer_PyTorch구현.ipynb          # Transformer 변형 구조 및 응용 분석 (BERT, GPT, ViT)
+├── Transformer_미니실험.ipynb               # 기본 Transformer 컴포넌트 구현 및 검증
+└── Transformer_확장.md     # IMDB 감정 분류 전체 실험 코드
 ```
 
 ---
