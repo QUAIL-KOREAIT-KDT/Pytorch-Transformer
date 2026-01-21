@@ -1,6 +1,6 @@
 # Attention Is All You Need
 
-날짜: 2026년 1월 17일
+정리 날짜: 2026년 1월 17일
 저자: Ashish Vaswani et al. (Google Brain, Google Research)
 카테고리: NLP
 
